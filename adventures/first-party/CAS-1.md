@@ -1,5 +1,5 @@
 ---
-title: CAS-1
+title: CAS-1 (playable)
 parent: First Party
 layout: default
 grand_parent: Adventures
