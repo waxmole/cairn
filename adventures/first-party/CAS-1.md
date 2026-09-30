@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: first-party
-grandparent: adventures
+grand_parent: adventures
 title: CAS-1: Trouble in Twin Lakes (Game)
 ---
 
